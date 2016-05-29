@@ -228,6 +228,7 @@ function create_config( )
     "set",
     "get",
     "broadcast",
+    "emojy",
     "invite",
     "all",
     "leave_ban",
