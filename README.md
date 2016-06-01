@@ -285,35 +285,11 @@ Create a realm using the `!createrealm` command.
 Check out this [tutorial by Telegram Geeks](http://telegramgeeks.com/2016/01/teleseed-tutorial/) for further assistance with setup and installation.
 
 **Do not contact us** in private for support.
-Join our bot development group by sending `/join 1047524697` to [@TeleSeed](https://telegram.me/TeleSeed)
+Join our bot development group by sending `/join 1047524697` to [@TeleSeed](http
 
-# Special thanks to
-[@seyedan25](https://telegram.me/seyedan25)
 
-For managing [@teleseed](https://telegram.me/TeleSeed) on Telegram.
 
-[@Vamptacus](https://telegram.me/Vamptacus)
+# SUDO
 
-For graphic designs.
+@HelloAlireza
 
-[topkecleon](https://github.com/topkecleon)
-
-[Juan Potato](https://github.com/JuanPotato)
-
-* * *
-
-# Our team!
-
-[Alphonse](https://github.com/hmon) ([Telegram](https://telegram.me/iwals))
-
-[I M /-\ N](https://github.com/imandaneshi) ([Telegram](https://telegram.me/imandaneshi))
-
-[Siyanew](https://github.com/Siyanew) ([Telegram](https://telegram.me/Siyanew))
-
-[Rondoozle](https://github.com/Rondoozle) ([Telegram](https://telegram.me/POTUS))
-
-### Our Telegram channels:
-
-English: [@TeleSeedCH](https://telegram.me/teleseedch)
-
-Persian: [@IranSeed](https://telegram.me/iranseed)
