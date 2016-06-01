@@ -45,7 +45,7 @@ function run(msg, matches)
 		if not value then
 			return 'آهنگ مورد نظر پیدا نشد.'
 		else
-			value = value..'\n\n@taylor_team'
+			value = value..'\n\n@puoker'
 			return value
 		end
 		return
