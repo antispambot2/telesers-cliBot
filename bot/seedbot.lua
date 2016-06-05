@@ -478,7 +478,7 @@ will return group ban list
 *Only owner can use res,setowner,promote,demote and log commands
 
 ]],
-	help_text_super =[[
+	--help_text_super =[[
 SuperGroup Commands:
 
 !info
