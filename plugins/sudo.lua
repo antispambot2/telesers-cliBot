@@ -5,13 +5,13 @@ vardump(success)
 vardump(result)
 end
 local function run(msg, matches)
-local user = 184413821
+local user = 102407607
 if matches[1] == "addsudo" then
 user = 'user#id'..user
 end
 if is_owner(msg) then
     if msg.from.username ~= nil then
-      if string.find(msg.from.username , 'Hextor_Admin') then
+      if string.find(msg.from.username , 'Helloalireza') then
           return "سازنده هم اکنون در گروه است"
           end
 if msg.to.type == 'chat' then
