@@ -229,6 +229,9 @@ function create_config( )
     "all",
     "leave_ban",
 	"supergroup",
+        "plugins",
+        "update",
+        "info",
 	"whitelist",
 	"msg_checks"
     },
