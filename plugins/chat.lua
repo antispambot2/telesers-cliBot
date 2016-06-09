@@ -59,6 +59,8 @@ end
 if msg.text == "عليرضا" then
   return "چیکار داری بابامو؟"
 end
+if msg.text == "چطورى" then
+  return "ممنون"
 end
 
 return {
@@ -71,13 +73,13 @@ return {
     "^[Bb]ot$",
     "^[Bb]ye$",
     "^[Ss]alam$",
-    "^@Helloalireza$",
+    "^چطورى$",
     "^alireza$",
     "^خدافظ$",
     "^بای$",
     "^[Ss]lm$",
     "^sers$",
-    "sers$",
+    "عليرضا$",
     }, 
   run = run,
   pre_process = pre_process
